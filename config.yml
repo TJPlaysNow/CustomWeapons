@@ -1,0 +1,16 @@
+# The config for great weapons!
+Weapon:
+# This section is just for guns.
+  Gun:
+# This must be set to the number of guns you expect to have!!
+    Ammount: 1
+# These numbers go on and on, it won't load if the 'Ammount' variable is not big enough!
+# Just put "gunName" .yml is not needed and will break it!
+    1: "gun"
+# This section is just for swords
+  Swords:
+# This must be set to the number of guns you expect to have!!
+    Ammount: 1
+# These numbers go on and on, it won't load if the 'Ammount' variable is not big enough!
+# Just put "swordName" .yml is not needed and will break it!
+    1: "sword"

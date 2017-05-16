@@ -1,0 +1,6 @@
+name: Weapons
+author: TJPlaysNow
+main: com.pzg.www.swweapons.main.PluginMain
+version: 1.0
+depend: [ConfigAPI]
+commands: 
